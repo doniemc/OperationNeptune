@@ -1,0 +1,104 @@
+#page
+{
+    background-color: #F1F1EF;
+ }
+ 
+#page .odd
+{
+    background-color: white;
+ } 
+ 
+body
+{
+    font-family: cheltenham, book antiqua;
+}
+ 
+ .odd, .even
+ {
+ height: 475px;
+ padding-top: 20px;
+ padding-left: 20px;
+ padding-right: 20px;
+ }
+ 
+ .maindiv{
+ float:right;
+ width: 58%;
+  font-size: 30px; 
+  line-height: 200%;
+ }
+ 
+ .maininner{
+ margin-left: 40px;
+ margin-right: 40px;
+ }
+
+ 
+ .maindiv1{
+  float: left;
+  width: 40%;
+ }
+ 
+  .maindiv2{
+  float: left;
+  width: 58%;
+  font-size: 30px; 
+  line-height: 200%;
+ }
+ 
+   .maindiv3{
+  float: right;
+  width: 40%;
+ }
+ 
+  .maindiv4{
+ float:right;
+ width: 58%;
+  font-size: 30px; 
+  line-height: 200%;
+ }
+ 
+ .audiofiles{
+ text-align: center;
+ padding-top: 10px;
+ padding-bottom: 0px;
+ }
+ 
+ .audioinner{
+ margin-top: 50px;
+ }
+ 
+ .map{
+ background-image: url('../images/map.jpg');
+ background-repeat: no-repeat;
+  background-size: 100% 400px; 
+ }
+ 
+ .map img {
+ padding-top: 5px;
+ }
+ 
+ .footer { 
+  display:block; 
+  overflow: auto;
+}
+
+.footer .black{
+background-color: black !important;
+}
+
+.left { 
+ float:left; 
+ width:30%;
+}
+
+.center { 
+ float:left;
+ width:30%;
+ margin: 0 10px;
+}
+
+.right{ 
+  float:left;
+  width:30%;
+}
